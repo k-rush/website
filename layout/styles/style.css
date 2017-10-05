@@ -25,6 +25,14 @@ td {
         
 }
 
+#profile {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    min-height:300px;
+    width:auto;
+}
+
 #header{
 	
 	background: #fff;
